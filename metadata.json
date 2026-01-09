@@ -1,0 +1,7 @@
+{
+  "name": "BeeClaimer V2 Professional",
+  "description": "Premium Crypto Mining & Faucet with Adsgram integration.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
